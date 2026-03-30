@@ -2,7 +2,7 @@
 # Hi there, I'm Md Ahsan Habib 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineering+Student;Full+Stack+Developer+In+Progress;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=CSEre+Engineering+Student;Problem+Solver+Developer+In+Progress;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
