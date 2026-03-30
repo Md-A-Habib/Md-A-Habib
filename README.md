@@ -23,12 +23,35 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-A-Habib&show_icons=true&theme=tokyonight&hide_border=true" alt="Md-A-Habib's GitHub stats" height="150" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<br>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" > GitHub Analytics</h2>
+<p align="center">
+  <img height="200" src="https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://laguages-stats-sajjadjim.vercel.app/api/top-langs/?username=sajjadjim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=10" />
+</p> 
+<p align="center" align="left" >
+    <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=whatsapp-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sajjadjim&theme=vue-dark" alt="GitHub Streak's sajjadjim" /></a>
 </p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadjim&theme=tokyonight" />
+</div>
+ <br> 
+ 
+<br>
+
+## 🏆 Achievements
+<p align="center" border="2px solid white"> 
+         <a href="https://github.com/sajjadjim"> <img src="https://komarev.com/ghpvc/?username=sajjadjim&style=for-the-badge&color=brightgreen"> </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sajjadjim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sajjadjim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadjim" alt="sajjadjim" /></a> </p>
+
 
 ---
 
