@@ -54,15 +54,24 @@
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://github.com/Md-A-Habib" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Md-A-Habib" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Md Ahsan Habib" /></a>
-</p>
+## 🔗 Connect with me
 
----
-<p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+<p align="left">
+  <a href="mailto:habibahsan9503@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-a-habib" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/ahsan.habib.172387" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/md.ahsan_habib" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="40"/>
+  </a>
 </p>
 
 <!-- Activity Graph -->
