@@ -1,12 +1,12 @@
 [![header banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=240&section=header&text=Md%20Ahsan%20Habib&fontSize=60&fontAlignY=36&fontColor=c9d1d9&desc=Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20CSE%20Student&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/Md-A-Habib)
 
-[![typing-banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=940&lines=Competitive+Programmer+%E2%80%A2+C+%2F+C%2B%2B+%2F+Java;Solving+Problems+on+Codeforces+%26+More;Exploring+Data+Structures+%26+Algorithms;CSE+Student+%40+Daffodil+International+University%2C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9)](https://github.com/Md-A-Habib)
+[![typing-banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=940&lines=I%27m+a+Computer+Science+%26+Engineering+Student;Competitive+Programming+Enthusiast;Learning+C%2C+C%2B%2B%2C+and+Java;Exploring+Data+Structures+%26+Algorithms+with+C%2B%2B;Building+Object-Oriented+Programming+Skills+in+Java;Passionate+About+Problem+Solving;Aspiring+Software+Engineer+%F0%9F%9A%80)](https://github.com/Md-A-Habib)
 
 ---
 
-[![profile views](https://komarev.com/ghpvc/?username=Md-A-Habib&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=161b22)](https://github.com/Md-A-Habib)
-[![followers](https://img.shields.io/github/followers/Md-A-Habib?label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/Md-A-Habib?tab=followers)
-[![open to collab](https://img.shields.io/badge/Open%20to-Collaborate-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/Md-A-Habib)
+[![profile views](https://komarev.com/ghpvc/?username=Md-A-Habib&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=3b3b3b)](https://github.com/Md-A-Habib)
+[![followers](https://img.shields.io/github/followers/Md-A-Habib?label=FOLLOWERS&style=for-the-badge&color=1d6ae5&labelColor=1558c0&logo=github&logoColor=white)](https://github.com/Md-A-Habib?tab=followers)
+[![stars](https://img.shields.io/github/stars/Md-A-Habib?label=STARS&style=for-the-badge&color=2d9e4f&labelColor=22863a&logo=github&logoColor=white)](https://github.com/Md-A-Habib?tab=repositories)
 
 ---
 
@@ -73,13 +73,6 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-A-Habib&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed&radius=8)](https://github.com/Md-A-Habib)
 
----
-
-## 🏆 Achievements
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=Md-A-Habib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/Md-A-Habib)
-
----
 
 ## 🔗 Let's Connect
 
