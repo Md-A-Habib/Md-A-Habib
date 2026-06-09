@@ -53,14 +53,25 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-[![GitHub stats](https://github-readme-stats.shion.dev/api?username=Md-A-Habib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/Md-A-Habib)
-[![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-A-Habib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)](https://github.com/Md-A-Habib)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-A-Habib&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-A-Habib&theme=tokyonight" alt="Stats" />
+</p>
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=58a6ff)](https://github.com/Md-A-Habib)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-A-Habib&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-A-Habib&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+</p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-A-Habib&custom_title=Commits+Heartbeat&bg_color=0d1117&color=58a6ff&line=bc8cff&point=bc8cff&title_color=58a6ff&area_color=58a6ff&hide_border=true&area=true)](https://github.com/Md-A-Habib)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Details" />
+</p>
+
+[![GitHub streak](https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa)](https://github.com/Md-A-Habib)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-A-Habib&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed&radius=8)](https://github.com/Md-A-Habib)
 
 ---
 
