@@ -1,6 +1,6 @@
 [![header banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=240&section=header&text=Md%20Ahsan%20Habib&fontSize=60&fontAlignY=36&fontColor=c9d1d9&desc=Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20CSE%20Student&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/Md-A-Habib)
 
-[![typing-banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=940&lines=I%27m+a+Computer+Science+%26+Engineering+Student;Competitive+Programming+Enthusiast;Learning+C%2C+C%2B%2B%2C+and+Java;Exploring+Data+Structures+%26+Algorithms+with+C%2B%2B;Building+Object-Oriented+Programming+Skills+in+Java;Passionate+About+Problem+Solving;Aspiring+Software+Engineer+%F0%9F%9A%80)](https://github.com/Md-A-Habib)
+[![typing-banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58a6ff&center=true&vCenter=true&width=940&lines=I%27m+a+Computer+Science+%26+Engineering+Student;Competitive+Programming+Enthusiast;Learning+C%2C+C%2B%2B%2C+and+Java;Exploring+Data+Structures+%26+Algorithms+with+C%2B%2B;Building+Object-Oriented+Programming+Skills+in+Java;Aspiring+Software+Engineer+%F0%9F%9A%80)](https://github.com/Md-A-Habib)
 
 ---
 
