@@ -6,7 +6,7 @@
 
 [![profile views](https://komarev.com/ghpvc/?username=Md-A-Habib&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=3b3b3b)](https://github.com/Md-A-Habib)
 [![followers](https://img.shields.io/github/followers/Md-A-Habib?label=FOLLOWERS&style=for-the-badge&color=1d6ae5&labelColor=1558c0&logo=github&logoColor=white)](https://github.com/Md-A-Habib?tab=followers)
-[![stars](https://img.shields.io/github/stars/Md-A-Habib?label=STARS&style=for-the-badge&color=2d9e4f&labelColor=22863a&logo=github&logoColor=white)](https://github.com/Md-A-Habib?tab=repositories)
+[![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMd-A-Habib&query=%24.public_repos&label=REPOS&style=for-the-badge&color=2d9e4f&labelColor=22863a&logo=github&logoColor=white)](https://github.com/Md-A-Habib?tab=repositories)
 
 ---
 
