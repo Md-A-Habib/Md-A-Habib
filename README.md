@@ -55,23 +55,28 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-A-Habib&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-A-Habib&theme=tokyonight" alt="Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-A-Habib&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-A-Habib&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+    <a href="#">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="#">
+    <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Details" />
 </p>
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa)](https://github.com/Md-A-Habib)
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-A-Habib&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed&radius=8)](https://github.com/Md-A-Habib)
+
+
+
+
+
 
 
 ## 🔗 Let's Connect
