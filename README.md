@@ -22,13 +22,6 @@ currently:
   - "⚔️  Sharpening competitive programming skills"
   - "📚  Learning Advanced Data Structures & Algorithms"
   - "☕  Fueled by: Coffee + Code = Productivity"
-
-problem_solving:
-  platforms: ["Codeforces", "LeetCode"]
-  codeforces: "https://codeforces.com/profile/md.ahsan_habib"
-
-languages: ["C", "C++", "Java"]
-tools:    ["Git", "VS Code"]
 interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 ```
 
@@ -40,25 +33,16 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 |---|---|
 | ![C](https://img.shields.io/badge/C-%23005999.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
----
-
-## 🏋️ What I'm Working On
-
-| ⚔️ Competitive Programming | 📖 Learning |
-|---|---|
-| 🔢 Solving problems on **Codeforces** daily | 🌳 **Advanced Trees & Graphs** |
-| 🧮 Practicing **C++ STL** for faster solutions | 🔄 **Dynamic Programming** patterns |
-| 🏆 Participating in **Codeforces rounds** | 📐 **OOP in Java** — classes, patterns |
-| 📦 Building a solution archive for reference | 🤖 GPT-assisted topic-wise learning |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Details" />
