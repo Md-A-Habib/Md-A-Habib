@@ -38,15 +38,20 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-  <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Details" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-A-Habib&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8&title_color=a78bfa" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Summary" />
+</div>
+<br>
 
 ---
 
