@@ -55,29 +55,16 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
-    <a href="#">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="#">
-    <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true" />
-  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-A-Habib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="54%" src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Details" />
 </p>
 
-
-
-
-
-
-
-
+---
 
 ## 🔗 Let's Connect
 
@@ -89,4 +76,4 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 
 ---
 
-⭐ *If you find my solutions helpful, drop a follow — I solve a lot of CP problems!* ⭐
+⭐ *Thank you for visiting my profile!* ⭐
