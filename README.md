@@ -49,7 +49,7 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-A-Habib&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Md-A-Habib&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=58a6ff" alt="GitHub Stats" />
 </div>
 <br>
 
