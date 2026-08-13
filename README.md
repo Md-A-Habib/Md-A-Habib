@@ -41,7 +41,7 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-A-Habib&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8&title_color=a78bfa" alt="Top Languages" />
+      <img src="https://raw.githubusercontent.com/Md-A-Habib/Md-A-Habib/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=Md-A-Habib&theme=tokyonight&hide_border=true&ring=7c3aed&fire=c084fc&currStreakLabel=a78bfa" alt="GitHub Streak" />
@@ -49,7 +49,7 @@ interests: ["Competitive Programming", "Problem Solving", "DSA", "OOP"]
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Md-A-Habib&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Md-A-Habib/Md-A-Habib/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" />
 </div>
 <br>
 
